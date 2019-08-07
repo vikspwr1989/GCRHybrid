@@ -1,0 +1,140 @@
+2019-08-06 12:53:38,686 [main] INFO com.testcases.TestLoginPage - Login Page Title Verified
+2019-08-06 12:53:49,626 [main] INFO com.testcases.TestLoginPage - Admin Login Verified
+2019-08-06 12:53:52,369 [main] INFO com.listeners.Reporter - Total Test Cases Executed :2
+2019-08-06 12:53:52,369 [main] INFO com.listeners.Reporter - Total Passed Test Cases :2
+2019-08-06 12:53:52,369 [main] INFO com.listeners.Reporter - Total Failed Test Cases :0
+2019-08-06 12:53:52,369 [main] INFO com.listeners.Reporter - Total Skipped Test Case :0
+2019-08-06 12:59:21,378 [main] INFO com.testcases.TestLoginPage - Login Page Title Verified
+2019-08-06 12:59:33,315 [main] INFO com.testcases.TestLoginPage - Admin Login Verified
+2019-08-06 12:59:36,147 [main] INFO com.listeners.Reporter - Total Test Cases Executed :2
+2019-08-06 12:59:36,147 [main] INFO com.listeners.Reporter - Total Passed Test Cases :2
+2019-08-06 12:59:36,148 [main] INFO com.listeners.Reporter - Total Failed Test Cases :0
+2019-08-06 12:59:36,148 [main] INFO com.listeners.Reporter - Total Skipped Test Case :0
+2019-08-06 13:00:54,481 [main] INFO com.testcases.TestLoginPage - Login Page Title Verified
+2019-08-06 13:01:06,086 [main] INFO com.testcases.TestLoginPage - Admin Login Verified
+2019-08-06 13:01:08,856 [main] INFO com.listeners.Reporter - Total Test Cases Executed :2
+2019-08-06 13:01:08,857 [main] INFO com.listeners.Reporter - Total Passed Test Cases :2
+2019-08-06 13:01:08,867 [main] INFO com.listeners.Reporter - Total Failed Test Cases :0
+2019-08-06 13:01:08,867 [main] INFO com.listeners.Reporter - Total Skipped Test Case :0
+2019-08-06 13:20:28,468 [main] INFO com.testbase.TestBase - chrome Started
+2019-08-06 13:20:33,152 [main] INFO com.testbase.TestBase - Log Off Verified
+2019-08-06 13:20:35,566 [main] INFO com.testbase.TestBase - chrome Closed
+2019-08-06 13:20:44,147 [main] INFO com.testcases.TestLoginPage - chrome Started
+2019-08-06 13:20:44,161 [main] INFO com.testcases.TestLoginPage - Login Page Title Verified
+2019-08-06 13:20:46,555 [main] INFO com.testcases.TestLoginPage - chrome Closed
+2019-08-06 13:20:54,704 [main] INFO com.testcases.TestLoginPage - chrome Started
+2019-08-06 13:20:56,719 [main] INFO com.testcases.TestLoginPage - Admin Login Verified
+2019-08-06 13:20:57,185 [main] INFO com.testcases.TestLoginPage - chrome Closed
+2019-08-06 13:20:57,564 [main] INFO com.listeners.Reporter - Total Test Cases Executed :3
+2019-08-06 13:20:57,564 [main] INFO com.listeners.Reporter - Total Passed Test Cases :3
+2019-08-06 13:20:57,564 [main] INFO com.listeners.Reporter - Total Failed Test Cases :0
+2019-08-06 13:20:57,564 [main] INFO com.listeners.Reporter - Total Skipped Test Case :0
+2019-08-06 13:24:05,971 [TestNG-test=SmokeTest-1] INFO com.testbase.TestBase - chrome Started
+2019-08-06 13:24:09,926 [TestNG-test=SmokeTest-1] INFO com.testbase.TestBase - Log Off Verified
+2019-08-06 13:24:10,368 [TestNG-test=SmokeTest-1] INFO com.testbase.TestBase - chrome Closed
+2019-08-06 13:24:19,412 [TestNG-test=SmokeTest-2] INFO com.testcases.TestLoginPage - chrome Started
+2019-08-06 13:24:19,425 [TestNG-test=SmokeTest-2] INFO com.testcases.TestLoginPage - Login Page Title Verified
+2019-08-06 13:24:19,842 [TestNG-test=SmokeTest-2] INFO com.testcases.TestLoginPage - chrome Closed
+2019-08-06 13:24:28,687 [TestNG-test=SmokeTest-3] INFO com.testcases.TestLoginPage - chrome Started
+2019-08-06 13:24:31,123 [TestNG-test=SmokeTest-3] INFO com.testcases.TestLoginPage - Admin Login Verified
+2019-08-06 13:24:31,619 [TestNG-test=SmokeTest-3] INFO com.testcases.TestLoginPage - chrome Closed
+2019-08-06 13:24:32,010 [main] INFO com.listeners.Reporter - Total Test Cases Executed :3
+2019-08-06 13:24:32,011 [main] INFO com.listeners.Reporter - Total Passed Test Cases :3
+2019-08-06 13:24:32,011 [main] INFO com.listeners.Reporter - Total Failed Test Cases :0
+2019-08-06 13:24:32,011 [main] INFO com.listeners.Reporter - Total Skipped Test Case :0
+2019-08-06 13:26:13,713 [TestNG-tests-2] INFO com.testbase.TestBase - chrome Started
+2019-08-06 13:26:15,715 [TestNG-tests-1] INFO com.testcases.TestLoginPage - chrome Started
+2019-08-06 13:26:15,758 [TestNG-tests-1] INFO com.testcases.TestLoginPage - Login Page Title Verified
+2019-08-06 13:26:18,283 [TestNG-tests-1] INFO com.testcases.TestLoginPage - chrome Closed
+2019-08-06 13:26:29,073 [TestNG-tests-1] INFO com.testcases.TestLoginPage - chrome Started
+2019-08-06 13:26:31,120 [TestNG-tests-1] INFO com.testcases.TestLoginPage - Admin Login Verified
+2019-08-06 13:26:31,570 [TestNG-tests-1] INFO com.testcases.TestLoginPage - chrome Closed
+2019-08-06 13:26:32,025 [main] INFO com.listeners.Reporter - Total Test Cases Executed :1
+2019-08-06 13:26:32,025 [main] INFO com.listeners.Reporter - Total Passed Test Cases :0
+2019-08-06 13:26:32,025 [main] INFO com.listeners.Reporter - Total Failed Test Cases :0
+2019-08-06 13:26:32,026 [main] INFO com.listeners.Reporter - Total Skipped Test Case :1
+2019-08-06 13:26:32,026 [main] INFO com.listeners.Reporter - Total Test Cases Executed :2
+2019-08-06 13:26:32,026 [main] INFO com.listeners.Reporter - Total Passed Test Cases :2
+2019-08-06 13:26:32,026 [main] INFO com.listeners.Reporter - Total Failed Test Cases :0
+2019-08-06 13:26:32,026 [main] INFO com.listeners.Reporter - Total Skipped Test Case :0
+2019-08-06 13:29:09,094 [TestNG-tests-1] INFO com.testcases.TestLoginPage - chrome Started
+2019-08-06 13:29:11,065 [TestNG-tests-2] INFO com.testbase.TestBase - chrome Started
+2019-08-06 13:29:11,091 [TestNG-tests-1] INFO com.testcases.TestLoginPage - Login Page Title Verified
+2019-08-06 13:29:11,609 [TestNG-tests-1] INFO com.testcases.TestLoginPage - chrome Closed
+2019-08-06 13:29:22,212 [TestNG-tests-1] INFO com.testcases.TestLoginPage - chrome Started
+2019-08-06 13:29:24,034 [TestNG-tests-1] INFO com.testcases.TestLoginPage - Admin Login Verified
+2019-08-06 13:29:26,447 [TestNG-tests-1] INFO com.testcases.TestLoginPage - chrome Closed
+2019-08-06 13:29:26,865 [main] INFO com.listeners.Reporter - Total Test Cases Executed :1
+2019-08-06 13:29:26,865 [main] INFO com.listeners.Reporter - Total Passed Test Cases :0
+2019-08-06 13:29:26,865 [main] INFO com.listeners.Reporter - Total Failed Test Cases :0
+2019-08-06 13:29:26,865 [main] INFO com.listeners.Reporter - Total Skipped Test Case :1
+2019-08-06 13:29:26,865 [main] INFO com.listeners.Reporter - Total Test Cases Executed :2
+2019-08-06 13:29:26,865 [main] INFO com.listeners.Reporter - Total Passed Test Cases :2
+2019-08-06 13:29:26,866 [main] INFO com.listeners.Reporter - Total Failed Test Cases :0
+2019-08-06 13:29:26,867 [main] INFO com.listeners.Reporter - Total Skipped Test Case :0
+2019-08-06 13:49:20,172 [TestNG-tests-2] INFO com.testbase.TestBase - chrome Started
+2019-08-06 13:49:21,870 [TestNG-tests-1] INFO com.testcases.TestLoginPage - chrome Started
+2019-08-06 13:49:21,938 [TestNG-tests-1] INFO com.testcases.TestLoginPage - Login Page Title Verified
+2019-08-06 13:51:31,795 [TestNG-tests-2] INFO com.testbase.TestBase - chrome Started
+2019-08-06 13:51:36,648 [TestNG-tests-1] INFO com.testcases.TestLoginPage - chrome Started
+2019-08-06 13:51:36,686 [TestNG-tests-1] INFO com.testcases.TestLoginPage - Login Page Title Verified
+2019-08-06 13:51:37,215 [TestNG-tests-1] INFO com.testcases.TestLoginPage - chrome Closed
+2019-08-06 13:51:47,299 [TestNG-tests-1] INFO com.testcases.TestLoginPage - chrome Started
+2019-08-06 13:51:49,192 [TestNG-tests-1] INFO com.testcases.TestLoginPage - Admin Login Verified
+2019-08-06 13:51:49,656 [TestNG-tests-1] INFO com.testcases.TestLoginPage - chrome Closed
+2019-08-06 13:51:50,098 [main] INFO com.listeners.Reporter - Total Test Cases Executed :1
+2019-08-06 13:51:50,098 [main] INFO com.listeners.Reporter - Total Passed Test Cases :0
+2019-08-06 13:51:50,099 [main] INFO com.listeners.Reporter - Total Failed Test Cases :0
+2019-08-06 13:51:50,099 [main] INFO com.listeners.Reporter - Total Skipped Test Case :1
+2019-08-06 13:51:50,099 [main] INFO com.listeners.Reporter - Total Test Cases Executed :2
+2019-08-06 13:51:50,099 [main] INFO com.listeners.Reporter - Total Passed Test Cases :2
+2019-08-06 13:51:50,099 [main] INFO com.listeners.Reporter - Total Failed Test Cases :0
+2019-08-06 13:51:50,100 [main] INFO com.listeners.Reporter - Total Skipped Test Case :0
+2019-08-06 13:59:15,542 [main] INFO com.testcases.TestLoginPage - chrome Started
+2019-08-06 13:59:15,598 [main] INFO com.testcases.TestLoginPage - Login Page Title Verified
+2019-08-06 13:59:16,096 [main] INFO com.testcases.TestLoginPage - chrome Closed
+2019-08-06 13:59:28,686 [main] INFO com.testcases.TestLoginPage - chrome Started
+2019-08-06 13:59:33,834 [main] INFO com.testcases.TestLoginPage - Admin Login Verified
+2019-08-06 13:59:34,344 [main] INFO com.testcases.TestLoginPage - chrome Closed
+2019-08-06 13:59:44,905 [main] INFO com.testbase.TestBase - chrome Started
+2019-08-06 14:00:05,897 [main] INFO com.testbase.TestBase - Log Off Verified
+2019-08-06 14:00:08,289 [main] INFO com.testbase.TestBase - chrome Closed
+2019-08-06 14:00:08,708 [main] INFO com.listeners.Reporter - Total Test Cases Executed :2
+2019-08-06 14:00:08,708 [main] INFO com.listeners.Reporter - Total Passed Test Cases :2
+2019-08-06 14:00:08,708 [main] INFO com.listeners.Reporter - Total Failed Test Cases :0
+2019-08-06 14:00:08,708 [main] INFO com.listeners.Reporter - Total Skipped Test Case :0
+2019-08-06 14:00:08,708 [main] INFO com.listeners.Reporter - Total Test Cases Executed :1
+2019-08-06 14:00:08,709 [main] INFO com.listeners.Reporter - Total Passed Test Cases :1
+2019-08-06 14:00:08,709 [main] INFO com.listeners.Reporter - Total Failed Test Cases :0
+2019-08-06 14:00:08,712 [main] INFO com.listeners.Reporter - Total Skipped Test Case :0
+2019-08-06 14:01:11,934 [main] INFO com.testcases.TestLoginPage - chrome Started
+2019-08-06 14:01:12,001 [main] INFO com.testcases.TestLoginPage - Login Page Title Verified
+2019-08-06 14:01:15,603 [main] INFO com.testcases.TestLoginPage - Admin Login Verified
+2019-08-06 14:01:16,114 [main] INFO com.testcases.TestLoginPage - chrome Closed
+2019-08-06 14:01:45,567 [main] INFO com.testbase.TestBase - chrome Started
+2019-08-06 14:01:50,209 [main] INFO com.testbase.TestBase - Log Off Verified
+2019-08-06 14:01:50,629 [main] INFO com.testbase.TestBase - chrome Closed
+2019-08-06 14:01:50,992 [main] INFO com.listeners.Reporter - Total Test Cases Executed :2
+2019-08-06 14:01:50,992 [main] INFO com.listeners.Reporter - Total Passed Test Cases :2
+2019-08-06 14:01:50,992 [main] INFO com.listeners.Reporter - Total Failed Test Cases :0
+2019-08-06 14:01:50,993 [main] INFO com.listeners.Reporter - Total Skipped Test Case :0
+2019-08-06 14:01:50,993 [main] INFO com.listeners.Reporter - Total Test Cases Executed :1
+2019-08-06 14:01:50,993 [main] INFO com.listeners.Reporter - Total Passed Test Cases :1
+2019-08-06 14:01:50,993 [main] INFO com.listeners.Reporter - Total Failed Test Cases :0
+2019-08-06 14:01:50,993 [main] INFO com.listeners.Reporter - Total Skipped Test Case :0
+2019-08-06 14:07:39,450 [main] INFO com.testcases.TestLoginPage - chrome Started
+2019-08-06 14:07:39,518 [main] INFO com.testcases.TestLoginPage - Login Page Title Verified
+2019-08-06 14:07:41,848 [main] INFO com.testcases.TestLoginPage - Admin Login Verified
+2019-08-06 14:07:42,331 [main] INFO com.testcases.TestLoginPage - chrome Closed
+2019-08-06 14:07:50,657 [main] INFO com.testbase.TestBase - chrome Started
+2019-08-06 14:07:54,891 [main] INFO com.testbase.TestBase - Log Off Verified
+2019-08-06 14:07:55,333 [main] INFO com.testbase.TestBase - chrome Closed
+2019-08-06 14:07:55,732 [main] INFO com.listeners.Reporter - Total Test Cases Executed :2
+2019-08-06 14:07:55,732 [main] INFO com.listeners.Reporter - Total Passed Test Cases :2
+2019-08-06 14:07:55,732 [main] INFO com.listeners.Reporter - Total Failed Test Cases :0
+2019-08-06 14:07:55,732 [main] INFO com.listeners.Reporter - Total Skipped Test Case :0
+2019-08-06 14:07:55,732 [main] INFO com.listeners.Reporter - Total Test Cases Executed :1
+2019-08-06 14:07:55,733 [main] INFO com.listeners.Reporter - Total Passed Test Cases :1
+2019-08-06 14:07:55,733 [main] INFO com.listeners.Reporter - Total Failed Test Cases :0
+2019-08-06 14:07:55,733 [main] INFO com.listeners.Reporter - Total Skipped Test Case :0
+2019-08-06 14:07:55,733 [main] INFO com.listeners.Reporter - Total Tests Executed are :2

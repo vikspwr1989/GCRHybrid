@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="SmokeSuite">
+<listeners>
+<listener class-name="com.listeners.Reporter"></listener>
+<listener class-name="com.listeners.SuiteListener"></listener>
+<listener class-name="com.listeners.TestListener"></listener>
+</listeners>
+  <test thread-count="1" name="LoginPageTest">
+    <classes>
+      <class name="com.testcases.TestLoginPage"/>
+     
+    </classes>
+  </test> <!-- SmokeTest -->
+  
+   <test thread-count="1" name="HomePageTest">
+    <classes>
+     
+      <class name="com.testcases.TestHomePage"/>
+    </classes>
+  </test> <!-- SmokeTest -->
+  
+</suite> <!-- SmokeSuite -->
